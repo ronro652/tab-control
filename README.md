@@ -7,3 +7,7 @@ Group tabs. So you can nake actions on all of the tabs in the group simultaneous
 Search tabs. With a keyboard shortcut.
 Color tabs. Make your brower colorful and beautiful.
 Split the current window to several windows. A window for each group of tabs.
+
+# what we need to learn
+getting info from chrome about the tabs.
+
